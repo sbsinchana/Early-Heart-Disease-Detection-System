@@ -1,0 +1,31 @@
+{
+    "team": [
+        {
+            "name": "Ranage R.D.P.R.",
+            "email": "e19310@eng.pdn.ac.lk",
+            "eNumber": "E/19/310"
+        },
+        {
+            "name": "Weerasinghe P.M.",
+            "email": "e19426@eng.pdn.ac.lk",
+            "eNumber": "E/19/426"
+        },
+        {
+            "name": "Wickramaarachchi I.W.A.P.D.",
+            "email": "e19431@eng.pdn.ac.lk",
+            "eNumber": "E/19/431"
+        },
+        {
+            "name": "W.A.A.M.T. Withanaarachchi",
+            "email": "e19453@eng.pdn.ac.lk",
+            "eNumber": "E/19/453"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. Damayanthi Herath",
+            "email": "dmayanthiherath@eng.pdn.ac.lk"
+        }
+    ],
+    "tags": ["Machine Learning", "Data Mining"]
+}
